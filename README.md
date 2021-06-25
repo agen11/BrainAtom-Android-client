@@ -15,3 +15,22 @@
 ** And all these services are just the beginning of the new era ...
 
 
+
+- How to use
+The whole procedure of using the 3 products is pretty simple:
+1. Register a new account with a real email.
+2. Authorize the app with all the permission needed(read/write permission).
+3. Find a pdf file you want to master the information inside and upload it to your android phone, the file should be a normal pdf with 1 column per page.
+4. After login into the app, in Autonomous Learner, select the file and create a node to store the outcome using auto-generating, then start the process. You could see the tip on maximum waiting time and the cost for current AI processing. You could do something else and wait for the results.
+5. After the estimated time, if the AI succeeds, you could get an email notification. Make sure to check the spam folder for the email sender is not known to you email server.
+
+
+What else could you do after learning?
+Now you can search for any related information like what you do in the google, duckduckgo based on the learning results. All results are presented to you as some relatively smaller paragraphs. So you could locate the information quickly without reading lots of paragraphs. Since all the search results are prioritized to a matching degree, you could accelerate the search procedure more efficiently. There are some other functions to help you easily explore similar information in the same class.
+
+The learning results could be viewed in a 3D data visualizer, which will help users to have rich knowledge about what has been learned and what could be searched using the search engine.
+
+Of course, there are more services it could provide with the evolution of the app.
+
+
+
