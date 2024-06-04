@@ -4,9 +4,13 @@
 A no code custom AI is just a start of what you need!
 
 ** Two AIs(Gamamind, Finch) and 1 decentralised data center(Bumblebee).
+
 ** Online/offline AI search engine named Gamamind, is to help you find both reference answer and generative answer. Offline search could inference answer on your own data without writing a single line of code. Reference answer could greatly decrease the uncertainty in giving answers and help you go to the AGI world. 4 search spaces provided.
+
 ** A general-purpose autonomous learning robot named Finch could help you master most human information in a file(currently PDF format), in a web page, or from a note. You name it and Finch will do it.
+
 ** Data center could make you manage your intangible asset in organized manner and make the information become accumulatable.
+
 
 
 - Summary
