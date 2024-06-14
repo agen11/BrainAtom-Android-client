@@ -25,6 +25,16 @@ A no code custom AI is just a start of what you need!
 
 
 
+- How to install
+
+** Method A
+You can directly download the BrainAtomAI.apk and install it. But you might get some so called 'warning': The app was built for an older version of Android. This is a forceful user migration to new hardware by unconditionally require app developer to update to latest version. You can choose to install anyway, I will never sell any user information and the app has very few permission requirements.
+
+
+** Method B
+You can also download the base version "BrainAtomAIBase.apk" and install it in first place. The warning should not appear. If it is successfully installed, then you can download the latest version "BrainAtomAI.apk" and choose to update the app.
+
+
 - How to use
 The whole procedure of using the 3 products is pretty simple:
 1. Register a new account with a real email.
