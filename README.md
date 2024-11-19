@@ -39,9 +39,12 @@ You can also download the base version "BrainAtomAIBase.apk" and install it in f
 The whole procedure of using the 3 products is pretty simple:
 1. Register a new account with a real email.
 2. Authorize the app with all the permission needed(read/write permission).
-3. Find a pdf file you want to master the information inside and upload it to your android phone, the file should be a normal pdf with 1 column per page.
-4. After login into the app, in Autonomous Learner, select the file and create a node to store the outcome using auto-generating, then start the process. You could see the tip on maximum waiting time and the cost for current AI processing. You could do something else and wait for the results.
-5. After the estimated time, if the AI succeeds, you could get an email notification. Make sure to check the spam folder for the email sender is not known to you email server.
+3.1 Go to chat with selected domain(Online, AIG) to get online/generative content with AI help.
+
+3.2 Or Find a pdf file you want to master the information inside and upload it to your android phone, the file should be a normal pdf with 1 column per page.
+3.2.1 After login into the app, in Autonomous Learner, select the file and create a node to store the outcome using auto-generating, then start the process. You could see the tip on maximum waiting time and the cost for current AI processing. You could do something else and wait for the results.
+3.2.2 After the estimated time, if the AI succeeds, you could get an email notification. Make sure to check the spam folder for the email sender is not known to you email server.
+3.2.3 Search or chat over the content you have built up.
 
 
 What else could you do after learning?
