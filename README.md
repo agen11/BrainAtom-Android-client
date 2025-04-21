@@ -35,6 +35,7 @@ You can directly download the BrainAtomAI.apk and install it. But you might get 
 You can also download the base version "BrainAtomAIBase.apk" and install it in first place. The warning should not appear. If it is successfully installed, then you can download the latest version "BrainAtomAI.apk" and choose to update the app.
 
 
+
 - How to use
 The whole procedure of using the 3 products is pretty simple:
 1. Register a new account with a real email.
@@ -45,6 +46,18 @@ The whole procedure of using the 3 products is pretty simple:
 3.2.1 After login into the app, in Autonomous Learner, select the file and create a node to store the outcome using auto-generating, then start the process. You could see the tip on maximum waiting time and the cost for current AI processing. You could do something else and wait for the results.
 3.2.2 After the estimated time, if the AI succeeds, you could get an email notification. Make sure to check the spam folder for the email sender is not known to you email server.
 3.2.3 Search or chat over the content you have built up.
+
+
+- Latest change
+version 1.0.0.19 of New AI version including following features: 
+- Online AI search engine based on evolutional inference and reasoning algorithm which could provide multiverse answers exceeding any LLMs. No worry about fabricated answer.
+
+- Personal AI assistant helping you to search, generate, learn regarding your own data.
+
+- New chat based system helping you to get answers in simple way
+
+- Chat/Generating history on local android phone and cloud to review history easily.
+
 
 
 What else could you do after learning?
